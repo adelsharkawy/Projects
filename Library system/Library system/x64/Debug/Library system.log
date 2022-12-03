@@ -1,0 +1,20 @@
+﻿  Library system.cpp
+C:\Users\eslam\source\repos\Library system\Library system\Library system.cpp(56,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eslam\source\repos\Library system\Library system\Library system.cpp(71,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eslam\source\repos\Library system\Library system\Library system.cpp(72,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eslam\source\repos\Library system\Library system\Library system.cpp(85,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eslam\source\repos\Library system\Library system\Library system.cpp(95,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eslam\source\repos\Library system\Library system\Library system.cpp(105,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eslam\source\repos\Library system\Library system\Library system.cpp(117,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eslam\source\repos\Library system\Library system\Library system.cpp(129,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eslam\source\repos\Library system\Library system\Library system.cpp(142,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eslam\source\repos\Library system\Library system\Library system.cpp(162,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eslam\source\repos\Library system\Library system\Library system.cpp(181,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eslam\source\repos\Library system\Library system\Library system.cpp(210,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eslam\source\repos\Library system\Library system\Library system.cpp(234,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eslam\source\repos\Library system\Library system\Library system.cpp(248,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eslam\source\repos\Library system\Library system\Library system.cpp(329,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eslam\source\repos\Library system\Library system\Library system.cpp(350,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eslam\source\repos\Library system\Library system\Library system.cpp(125): warning C4172: returning address of local variable or temporary: u
+C:\Users\eslam\source\repos\Library system\Library system\Library system.cpp(113): warning C4172: returning address of local variable or temporary: b
+  Library system.vcxproj -> C:\Users\eslam\source\repos\Library system\x64\Debug\Library system.exe
